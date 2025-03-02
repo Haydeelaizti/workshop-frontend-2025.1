@@ -1,12 +1,10 @@
-# React + Vite
+Este projeto foi desenvolvido utilizando React para consumir a API Pokémon TCG (https://api.pokemontcg.io/v2/cards). O objetivo é buscar e exibir cartas Pokémon, mostrando informações como nome, imagem e detalhes das cartas.
+Fiz o uso do React Hooks para gerenciar o estado e manipular os dados recebidos da API de maneira eficiente.
+Projeto utilizado para seleção na Fábrica de Software - Unipê.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tecnologias utilizadas: 
+- React – Biblioteca principal para construção da interface.
+- Axios – Para realizar requisições HTTP e consumir a API.
+- React Hooks (useState e useEffect) – Para controle de estado e efeitos colaterais.
+- map() – Para percorrer e renderizar dinamicamente os dados da API.
+- CSS – Para estilização da aplicação.
