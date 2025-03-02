@@ -8,3 +8,6 @@ Tecnologias utilizadas:
 - React Hooks (useState e useEffect) – Para controle de estado e efeitos colaterais.
 - map() – Para percorrer e renderizar dinamicamente os dados da API.
 - CSS – Para estilização da aplicação.
+
+Deploy do projeto : https://workshop-frontend-2025-1-haydees-projects-5e23b814.vercel.app/
+*Não estão pegando algumas funcionalidades no deploy, principamente na aba de CARTAS, porem, o deploy foi feito. Tentei ajustar mas não consegui. Mas quando abro no editor de código e vou por lá para o site, as funcionalidades funcionam perfeitamente. São apenas funcionalidades de ajuste das imagem e posições das palavras.
