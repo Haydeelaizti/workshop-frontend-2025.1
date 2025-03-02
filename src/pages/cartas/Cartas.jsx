@@ -32,8 +32,5 @@ export default function Cartas(){
                 }
             </section>
         </main>
-
-
-        // name , types and imagem.large
     )
 }
